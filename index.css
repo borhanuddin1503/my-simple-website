@@ -1,0 +1,12 @@
+div{
+    background: tomato;
+    color: white;
+    box-sizing: border-box;
+}
+
+div h3{
+    padding: 20px;
+}
+p{
+    padding: 20px;
+}
